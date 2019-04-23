@@ -20,7 +20,7 @@ nginx:
   replicaCount: 1
 
 varnish:
-  enabled: true
+  enabled: false
   #url: https://example.com
   repository: quay.io/api-platform/varnish
   tag: latest
